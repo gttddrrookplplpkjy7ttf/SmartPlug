@@ -1,1 +1,1 @@
-
+This is my first project in University. It is an IoT device known as a Smart Plug. This plug can be used to turn lights on and off via a mobile application. Additionally, it can measure temperature and humidity, displaying the results through the same mobile application.
